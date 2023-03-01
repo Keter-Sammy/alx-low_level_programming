@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 int n;
@@ -15,7 +21,7 @@ p = &n;
    * - you are not allowed to modify p
    * - only one statement
    * - you are not allowed to code anything else than this line of code
-   * - main function to print a[2]=98
+   * main - function to print a[2]=98
    */
 p[5] = 98;
   /* ...so that this prints 98\n */
