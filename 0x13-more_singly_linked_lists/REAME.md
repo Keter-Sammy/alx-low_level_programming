@@ -1,2 +1,0 @@
-More Linked list content
-
